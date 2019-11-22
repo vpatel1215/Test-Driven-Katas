@@ -1,0 +1,24 @@
+{
+  "name": "Test-Driven-Katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpatel1215/Test-Driven-Katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpatel1215/Test-Driven-Katas/issues"
+  },
+  "homepage": "https://github.com/vpatel1215/Test-Driven-Katas#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
